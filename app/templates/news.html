@@ -1,0 +1,28 @@
+{% extends 'base.html'%}
+<!DOCTYPE html>
+<html>
+    <body>
+
+    <h1>ARTICLES</h1>
+    <!-- Content block -->
+    {% block content %} 
+    {% for detz_article in detz %}
+    <div class="container-fluid">
+        
+    <div class="row">
+         <div class="col-md-12 ">
+            
+            <img src="{{detz_article.urlToImage}}" style="width: 340px; ">
+            <h3>{{detz_article.title}}</h3>
+            <p>{{detz_article.description}}</p>
+            <p><a href="{{detz_article.url}}">Read More</a></p>
+            <p><strong>Published on {{detz_article.publishedAt}}</strong></p>
+<hr>
+        </div>
+    </div>
+    </div>
+     {% endfor %}
+    {% endblock%}
+
+    </body>
+</html>

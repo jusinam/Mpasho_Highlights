@@ -65,4 +65,4 @@ No known bugs
 
 #### License
 MIT
-&copy;2019 Evans Nyambane
+&copy;2019 Evans Onchagwa

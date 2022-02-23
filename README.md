@@ -2,7 +2,7 @@
 Mpasho is a news highlight application that gives access to the users about what is happening worldwide. The application posses news from different sources.
 
 ## Author
-* Evans Nyambane
+* Evans Onchagwa
 
 ## BDD
 | Behaviour | Input | Output |
@@ -19,7 +19,7 @@ Get the installation guide [here](https://www.python.org/)
 ## Set-up
 Open your terminal and run:
 
-* ` git clone https://github.com/DjCooGie/Mpasho_Highlights.git `
+* ` git clone https://github.com/jusinam/Mpasho_Highlights.git `
 
 * ` cd project root directory `
 
@@ -60,7 +60,7 @@ No known bugs
 
 #### Collaborate
 >Incase of any questions, problems ideas concerning the app, feel free to reach out to me:
->>Github: [Evans Nyambane](https://github.com/DjCooGie)
+>>Github: [Evans Onchagwa](https://github.com/jusinam)
 >>Email: evansonchagwa01@gmail.com
 
 #### License
